@@ -1,0 +1,27 @@
+{
+
+
+    "params":
+    {
+        "local_server" : "True" ,
+        "local_uri" : "mysql://root:@localhost/codingvalorant",
+        "prod_uri" : "mysql://root:@localhost/codingvalorant",
+        "fb_url" : "https://facebook.com/codingvalorant",
+        "tw_url" : "https://twitter.com/codingvalorant",
+        "gh_url" : "https://github.com/codingvalorant" ,
+        "blog_name" : "TheCodingValorants",
+        "tag_line" : "A Stack Innovator" ,
+        "gmail-user" : "",
+        "gmail-password" : "",
+        "about_text": "Hi this is Vishal Yadav and I create this website!",
+        "no_of_posts" : 2 ,
+        "login_image":"login.svg",
+        "admin_user":"vishal",
+        "admin_password": "xyz123" ,
+        "upload_location" : "E:\\Flask learning\\Static"
+
+
+
+    }
+
+}

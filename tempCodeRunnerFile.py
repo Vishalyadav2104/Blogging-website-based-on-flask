@@ -1,0 +1,1 @@
+from werkzeug import secure filename
